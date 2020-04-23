@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion-client/center-promotion-client.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion-client/center-promotion-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion-web/center-promotion-web.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion-web/center-promotion-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-stock/center-stock.iml" filepath="$PROJECT_DIR$/center-stock/center-stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-stock/center-stock-client/center-stock-client.iml" filepath="$PROJECT_DIR$/center-stock/center-stock-client/center-stock-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-stock/center-stock-web/center-stock-web.iml" filepath="$PROJECT_DIR$/center-stock/center-stock-web/center-stock-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-user/center-user.iml" filepath="$PROJECT_DIR$/center-user/center-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" filepath="$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" filepath="$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" />

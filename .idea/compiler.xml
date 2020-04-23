@@ -6,12 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="center-promotion-client" />
+        <module name="center-promotion-web" />
+        <module name="center-stock-client" />
+        <module name="center-stock-web" />
         <module name="center-user-client" />
         <module name="center-user-web" />
         <module name="common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="center-promotion" target="1.8" />
+      <module name="center-promotion-client" target="8" />
+      <module name="center-promotion-web" target="1.8" />
+      <module name="center-stock" target="1.5" />
+      <module name="center-stock-client" target="8" />
+      <module name="center-stock-web" target="1.8" />
       <module name="center-user" target="1.8" />
       <module name="center-user-client" target="8" />
       <module name="center-user-web" target="1.8" />
@@ -20,6 +30,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="center-promotion-client" options="-parameters" />
+      <module name="center-promotion-web" options="-parameters" />
+      <module name="center-stock-client" options="-parameters" />
+      <module name="center-stock-web" options="-parameters" />
       <module name="center-user-client" options="-parameters" />
       <module name="center-user-web" options="-parameters" />
     </option>

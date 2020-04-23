@@ -2,133 +2,527 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="998fcf69-a029-4034-9487-bee9ee92b810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_afiona_center_consultant_client_0_0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_afiona_center_member_client_0_0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_ban_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_base_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_brand_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_category_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_certificate_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_common_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_core_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_label_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_message_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_price_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_property_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_common_3_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_miniapp_3_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_mp_3_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/UserApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/WechatUserApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/EmpApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/UserApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/WechatUserApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/UserConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/CompilationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/EmpType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/UserResultEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/UserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/WorkStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/aggregate/EmpAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/WechatUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/model/query/EmpQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/util/HeaderHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/util/PhoneCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/EmpApiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/UserApiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/WechatUserApiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/builder/WechatUserBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/builder/impl/WechatUserBuilderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/AppRuntimeEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/MetaObjectHandlerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/WechatConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/EmpRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/WechatUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/verify/service/EmpVerifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/verify/service/UserVerifyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/ConsultantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/filter/CorsFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/EmpDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/WechatUserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/EmpDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/WechatUserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/EmpMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/WechatUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/EmpDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/UserDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/WechatUserDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/EmpRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/WechatUserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/interceptor/TokenFeignClientInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/AuthorizationServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/ResourceServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/TokenStoreConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/exception/InternalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/exception/WechatInvokeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/service/IntegrationUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/domain/service/MemberServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/infrastructure/repo/impl/WechatUserRepositoryImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/enums/BaseEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/model/SuperEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/JsonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/serializer/ResponseSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/BatchOperateFailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/BizException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/CloneUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/DpBeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/ActivityApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/AddMoneyToBuyApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/CouponTemplateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/FixedPriceApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/FullReductionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/GetCouponCentreApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/PayGiftApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/PresellApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/PromotionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/SecondsKillApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/SpecialDiscountApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/SuitGroupApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/ActivityApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/AddMoneyToBuyApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/CouponTemplateApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/FixedPriceApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/FullReductionApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/GetCouponCentreApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/PayGiftApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/PresellApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/PromotionApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/SecondsKillApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/SpecialDiscountApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/client/SuitGroupApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/CouponInstanceChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/CouponStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/CouponType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/GiveOutStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/GoodsRuleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/MemberRuleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/PreferentialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/PresellType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/PromotionResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/PromotionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/ResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/RuleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/StatusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/SuitGoodsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/SuitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/ThresholdType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/ActivityStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/AmountChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/ContentTypeChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/CouponUseTimeChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/CoupondistributeChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/DiscountChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/DiscountsContentTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/DiscountsNumberEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/FullNumChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/FullPriceChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/GiftChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/GlobalDiscountSettingChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/GoodsThresholdRuleTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/IgnoreSmallChangeChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/LimitChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/LimitTypeChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/MemberDiscountsTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/OperatingTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/OrderCancellationChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/PayGiftTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/SuitChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/SuperimposedTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/TheSettlementProcessChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/constants/choice/ThresholdChoiceEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/AddMoneyToBuyAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/CouponTemplateAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/FixedPriceAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/FullReductionAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/PayGiftAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/PresellAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/PromotionAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/SecondsKillAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/SpecialDiscountAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/aggregate/SuitGroupAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/IPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/equities/Equities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/addmoneytobuy/AddMoneyToBuyGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/addmoneytobuy/AddMoneyToBuyRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/coupon/CouponTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/coupon/GetCouponCentre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fixedprice/FixedPriceGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fixedprice/FixedPriceRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fullreduction/FullReductionCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fullreduction/FullReductionGitGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fullreduction/FullReductionRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/fullreduction/FullReductionStairRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/paygift/PayGiftCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/paygift/PayGiftGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/paygift/PayGiftRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/paygift/PayGiftStairRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/presell/PresellGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/presell/PresellRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/seckill/SecondsKillGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/seckill/SecondsKillRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/specialdiscount/SpecialDiscountGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/specialdiscount/SpecialDiscountRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/suit/MutualExclusionPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/suit/SuitFixedSuitGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/suit/SuitFixedSuitRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/promotionrule/suit/SuitGroupRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/suitrule/SuitChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/suitrule/SuitGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/suitrule/SuitMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/domain/model/suitrule/SuitRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/AddBuyGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/Benefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/CheckedCouponTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/CouponApplicabilityList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/MaterialBenefits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/PayGiftBenefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/PromotionBenefits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/PromotionGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/PromotionStairRuleKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/PromotionSuitGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/SingleBenefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/SingleCommoditiesBenefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/SuitRuleGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/annotation/ActivityPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/annotation/PromotionPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/put/ActivityEnabledSettingPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/put/PromotionEnabledSettingPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/ActivityQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/BenefitCalcQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/CouponBenefitCalcQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/CouponTemplateQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/GetCouponCentreQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/GoodsBenefitCalcQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/PayGiftBenefitCalcQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/PromotionQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/PromotionSuitGoodsQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/model/query/SuitPromotionQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/GenericHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/IPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/MergeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/OperatingVerifyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/PageBeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/PromotionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/PromotionVerifyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/util/RangeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-client/swagger/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/ActivityApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/AddMoneyToBuyApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/CouponTemplateApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/FixedPriceApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/FullReductionApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/GetCouponCentreApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/PayGiftApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/PresellApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/PromotionApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/SecondsKillApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/SpecialDiscountApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/SuitGroupApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/config/AppRuntimeEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/config/MetaObjectHandlerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/config/XxlJobConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/ActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/AddMoneyToBuyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/BasePromotionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/CommonPromotionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/CouponTemplateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/FixedPriceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/FullReductionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/GetCouponCentreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/PayGiftRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/PresellRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/SecondsKillRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/SpecialDiscountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/repo/SuitGroupRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/IAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/IBaseAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/AddMoneyToBuyAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/BaseAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/CouponTemplateAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/FixedPriceAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/FullReductionAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/PayGiftAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/PresellAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/SecondsKillAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/SpecialDiscountAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/aggregate/impl/SuitGroupAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/applicability/CouponApplicability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/GoodsBenefitCalcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/MultipleBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/PayGiftBenefitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/SingleBenefitCalcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/SingleBenefitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/AddMoneyToBuyBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/FixedPriceBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/FullReductionBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/GoodsBenefitCalcServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/PayGiftApiBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/SingleBenefitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/SpecialDiscountBenefitCalcServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/impl/SuitGroupBenefitCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/benefit/verify/SuitRuleVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/OptimalPromotionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/PromotionBenefitsCalcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/PromotionDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/PromotionGoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/impl/OptimalPromotionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/impl/PromotionBenefitsCalcServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/impl/PromotionDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/promotion/impl/PromotionGoodsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/IBaseResolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/IResolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/AddMoneyToBuyResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/BaseResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/CouponTemplateResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/FixedPriceResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/FullReductionResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/PayGiftResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/PresellResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/SecondsKillResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/SpecialDiscountResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/resolve/impl/SuitGroupResolveService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/verify/ActivityVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/verify/PromotionVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/verify/impl/ActivityVerifyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/domain/service/verify/impl/PromotionVerifyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/ActivityDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/AddMoneyToBuyGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/AddMoneyToBuyRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/CouponTemplateDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/EquitiesDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FixedPriceGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FixedPriceRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FullReductionCouponDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FullReductionGitGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FullReductionRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/FullReductionStairRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/GetCouponCentreDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/MutualExclusionPromotionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PayGiftCouponDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PayGiftGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PayGiftRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PayGiftStairRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PresellGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PresellRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/PromotionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SecondsKillGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SecondsKillRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SpecialDiscountGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SpecialDiscountRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitChannelDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitFixedSuitGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitFixedSuitRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitGoodsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitGroupRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitMemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/SuitRuleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/ActivityDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/AddMoneyToBuyGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/AddMoneyToBuyRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/CouponTemplateDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/EquitiesDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FixedPriceGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FixedPriceRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FullReductionCouponDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FullReductionGitGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FullReductionRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/FullReductionStairRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/GetCouponCentreDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/MutualExclusionPromotionDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PayGiftCouponDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PayGiftGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PayGiftRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PayGiftStairRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PresellGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PresellRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/PromotionDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SecondsKillGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SecondsKillRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SpecialDiscountGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SpecialDiscountRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitChannelDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitFixedSuitGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitFixedSuitRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitGoodsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitGroupRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitMemberDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/dao/impl/SuitRuleDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/ActivityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/AddMoneyToBuyGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/AddMoneyToBuyRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/CouponTemplateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/EquitiesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FixedPriceGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FixedPriceRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FullReductionCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FullReductionRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FullReductionStairRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/FulleReductionGitGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/GetCouponCentreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/MutualExclusionPromotionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PayGiftCouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PayGiftGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PayGiftRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PayGiftStairRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PresellGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PresellRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/PromotionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SecondsKillGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SecondsKillRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SpecialDiscountGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SpecialDiscountRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitChannelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitFixedSuitGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitFixedSuitRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitGroupRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitMemberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/mapper/SuitRuleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/ActivityDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/AddMoneyToBuyGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/AddMoneyToBuyRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/CouponTemplateDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/EquitiesDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FixedPriceGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FixedPriceRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FullReductionCouponDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FullReductionGitGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FullReductionRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/FullReductionStairRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/GetCouponCentreDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/MutualExclusionPromotionDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PayGiftCouponDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PayGiftGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PayGiftRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PayGiftStairRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PresellGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PresellRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/PromotionDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SecondsKillGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SecondsKillRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SpecialDiscountGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SpecialDiscountRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitChannelDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitFixedSuitGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitFixedSuitRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitGoodsDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitGroupRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitMemberDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/model/SuitRuleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/ActivityRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/AddMoneyToBuyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/CouponTemplateRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/FixedPriceRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/FullReductionRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/GetCouponCentreRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/PayGiftRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/PresellRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/SecondsKillRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/SpecialDiscountRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/repo/impl/SuitGroupRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/xxl/ActivityJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/infrastructure/xxl/PromotionJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/util/ActivityUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/util/AppUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/util/FillUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/util/PromotionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/resources/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/AddMoneyToBuyRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/DemoCheckedCouponTemplateTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/DemoFullTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/DemoPayGift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/DemoPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-promotion/swagger/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/PhysicalStockApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/StockAdminApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/StockApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/StockFlowApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/WarehouseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/client/PhysicalStockApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/client/StockAdminApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/client/StockApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/client/StockFlowApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/client/WarehouseApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/PositionConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/InStockType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/OperateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/OutStockType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/StockFlowType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/WarehouseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/WarehouseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/constants/enums/result/StockResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/PhysicalStockAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/StockDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/StockFlowAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/StoreDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/StoreWarehouses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/aggregate/WarehouseAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/model/PhysicalStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/model/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/model/StockFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/domain/model/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/IdAndCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/command/PhysicalStockCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/command/StockCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/PhysicalStockQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/StockFlowQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/StockPageQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/StockQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/StoreDistributionDetailsQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/model/query/WarehouseQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/util/GenericHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/util/PositionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/util/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/PhysicalStockApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/StockAdminApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/StockApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/StockFlowApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/WarehouseApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/builder/WarehouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/config/AppRuntimeEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/config/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/config/MetaObjectHandlerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/repo/PhysicalStockRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/repo/StockFlowRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/repo/StockRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/repo/WarehouseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/NumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/PhysicalStockNumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/StockNumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/StockUpdateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/aggregate/PhysicalStockAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/aggregate/StockFlowAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/aggregate/WarehouseAggregateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/impl/PhysicalStockNumServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/impl/StockNumServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/domain/service/impl/StockUpdateServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/PhysicalStockDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/StockDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/StockFlowDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/WarehouseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/WarehouseStoreDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/impl/PhysicalStockDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/impl/StockDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/impl/StockFlowDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/impl/WarehouseDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/dao/impl/WarehouseStoreDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/mapper/PhysicalStockMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/mapper/StockFlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/mapper/StockMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/mapper/WarehouseChannelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/mapper/WarehouseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/model/PhysicalStockDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/model/StockDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/model/StockFlowDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/model/WarehouseDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/model/WarehouseStoreDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/repo/impl/PhysicalStockRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/repo/impl/StockFlowRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/repo/impl/StockRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/infrastructure/repo/impl/WarehouseRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/log.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/domain/service/impl/PhysicalStockNumServiceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/domain/service/impl/StockNumServiceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/domain/service/impl/StockUpdateServiceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/infrastructure/repo/impl/PhysicalStockRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/infrastructure/repo/impl/StockFlowRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/infrastructure/repo/impl/StockRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/infrastructure/repo/impl/WarehouseRepositoryIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/util/PhysicalStockFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/util/StockFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/util/WarehouseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-stock/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-commodity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-commodity/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-commodity/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-commodity/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-consultant/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-consultant/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-consultant/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-member/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-member/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-member/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-order/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-order/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center-order/build.sh" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/center-user/target/" />
     <ignored path="$PROJECT_DIR$/center-user/center-user-web/target/" />
     <ignored path="$PROJECT_DIR$/center-user/center-user-client/target/" />
+    <ignored path="$PROJECT_DIR$/center-stock/target/" />
+    <ignored path="$PROJECT_DIR$/center-stock/center-stock-web/target/" />
+    <ignored path="$PROJECT_DIR$/center-stock/center-stock-client/target/" />
+    <ignored path="$PROJECT_DIR$/center-promotion/target/" />
+    <ignored path="$PROJECT_DIR$/center-promotion/center-promotion-web/target/" />
+    <ignored path="$PROJECT_DIR$/center-promotion/center-promotion-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,90 +530,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageQuery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/EmpApiImpl.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/WechatUserApiImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-local.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/domain/service/MemberServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -228,10 +539,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/center-user/pom.xml" />
         <option value="$PROJECT_DIR$/center-user/center-user-web/pom.xml" />
         <option value="$PROJECT_DIR$/center-user/center-user-client/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/center-stock/pom.xml" />
+        <option value="$PROJECT_DIR$/center-stock/center-stock-web/pom.xml" />
+        <option value="$PROJECT_DIR$/center-stock/center-stock-client/pom.xml" />
+        <option value="$PROJECT_DIR$/center-promotion/center-promotion-web/pom.xml" />
+        <option value="$PROJECT_DIR$/center-promotion/pom.xml" />
+        <option value="$PROJECT_DIR$/center-promotion/center-promotion-client/pom.xml" />
       </list>
     </option>
   </component>
@@ -248,6 +565,7 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -260,101 +578,6 @@
               <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user" type="462c0819:PsiDirectoryNode" />
-              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -366,9 +589,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587646029524" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587647070136" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/center-order" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -378,11 +601,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-client\src\main\java" />
-      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\test\java" />
-      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\main\resources" />
-      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\main\java" />
-      <recent name="D:\usworkspace\yanli-workspace\x-workspace\common\src\main\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-promotion" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-promotion\center-promotion-client" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-promotion\center-promotion-client\src\main\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-promotion\center-promotion-web\src\test\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-promotion\center-promotion-web\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -397,7 +620,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="center-promotion-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.afiona.center.web.promotion.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="center-user-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.afiona.center.user.Application" />
@@ -416,16 +646,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587644985157</updated>
-      <workItem from="1587644989467" duration="1019000" />
+      <workItem from="1587644989467" duration="1970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1019000" />
+    <option name="totallyTimeSpent" value="1970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -436,7 +665,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.330373" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -477,13 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -530,8 +752,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-web/src/main/java/com/afiona/center/stock/api/impl/StockApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-web/src/main/resources/log.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-web/src/test/java/com/afiona/center/stock/util/StockFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-stock/center-stock-client/src/main/java/com/afiona/center/stock/api/StockApi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/java/com/afiona/center/web/promotion/api/impl/PayGiftApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-web/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-web/src/test/java/com/afiona/center/web/promotion/infrastructure/repo/impl/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-client/src/main/java/com/afiona/center/client/promotion/api/PayGiftApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/swagger/swagger.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-promotion/center-promotion-client/swagger/swagger.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>

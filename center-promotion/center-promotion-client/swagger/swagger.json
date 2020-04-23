@@ -1,0 +1,21 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "swagger导入dapi demo",
+    "version" : "v1",
+    "title" : "swagger导入dapi demo",
+    "termsOfService" : "http://www.github.com/kongchen/swagger-maven-plugin",
+    "contact" : {
+      "name" : "deepexi",
+      "url" : "www.deepexi.com",
+      "email" : "deepexi@deepexi.com"
+    },
+    "license" : {
+      "name" : "Apache 2.0",
+      "url" : "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "host" : "petstore.swagger.wordnik.com",
+  "basePath" : "/api",
+  "schemes" : [ "http", "https" ]
+}
