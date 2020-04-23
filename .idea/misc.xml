@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/center-user/pom.xml" />
         <option value="$PROJECT_DIR$/center-stock/pom.xml" />
         <option value="$PROJECT_DIR$/center-promotion/pom.xml" />
+        <option value="$PROJECT_DIR$/center-order/pom.xml" />
+        <option value="$PROJECT_DIR$/center-member/pom.xml" />
       </list>
     </option>
   </component>

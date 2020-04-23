@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/center-member/center-member.iml" filepath="$PROJECT_DIR$/center-member/center-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-member/center-member-client/center-member-client.iml" filepath="$PROJECT_DIR$/center-member/center-member-client/center-member-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-member/center-member-web/center-member-web.iml" filepath="$PROJECT_DIR$/center-member/center-member-web/center-member-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-order/center-order.iml" filepath="$PROJECT_DIR$/center-order/center-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-order/center-order-client/center-order-client.iml" filepath="$PROJECT_DIR$/center-order/center-order-client/center-order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-order/center-order-web/center-order-web.iml" filepath="$PROJECT_DIR$/center-order/center-order-web/center-order-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion-client/center-promotion-client.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion-client/center-promotion-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-promotion/center-promotion-web/center-promotion-web.iml" filepath="$PROJECT_DIR$/center-promotion/center-promotion-web/center-promotion-web.iml" />
@@ -12,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" filepath="$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" filepath="$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-order/delayed-task/delayed-task.iml" filepath="$PROJECT_DIR$/center-order/delayed-task/delayed-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/x-workspace.iml" filepath="$PROJECT_DIR$/.idea/x-workspace.iml" />
     </modules>
   </component>
