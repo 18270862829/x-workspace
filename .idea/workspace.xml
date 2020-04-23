@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="998fcf69-a029-4034-9487-bee9ee92b810" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_afiona_center_consultant_client_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_afiona_center_member_client_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_ban_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_base_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_brand_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_category_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_certificate_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_common_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_core_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_label_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_message_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_price_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_deepexi_xpaas_center_goods_property_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_common_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_miniapp_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_mp_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/WechatUserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/EmpApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/UserApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/client/WechatUserApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/UserConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/CompilationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/EmpType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/UserResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/UserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/constants/enums/WorkStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/aggregate/EmpAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/domain/model/WechatUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/model/query/EmpQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/util/HeaderHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/util/PhoneCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/EmpApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/UserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/WechatUserApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/builder/WechatUserBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/builder/impl/WechatUserBuilderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/AppRuntimeEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/MetaObjectHandlerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/config/WechatConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/EmpRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/WechatUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/verify/service/EmpVerifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/repo/verify/service/UserVerifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/ConsultantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/domain/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/filter/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/EmpDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/WechatUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/EmpDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/dao/impl/WechatUserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/EmpMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/mapper/WechatUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/EmpDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/UserDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/model/WechatUserDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/EmpRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/infrastructure/repo/impl/WechatUserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/interceptor/TokenFeignClientInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/config/TokenStoreConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/exception/InternalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/exception/WechatInvokeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/oauth/service/IntegrationUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/domain/service/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/infrastructure/repo/impl/WechatUserRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/center-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/enums/BaseEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/model/SuperEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/JsonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/serializer/ResponseSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/BatchOperateFailException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/BizException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/CloneUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/afiona/common/util/DpBeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/center-user/target/" />
+    <ignored path="$PROJECT_DIR$/center-user/center-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/center-user/center-user-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/EmpApiImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/WechatUserApiImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/domain/service/MemberServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/center-user/pom.xml" />
+        <option value="$PROJECT_DIR$/center-user/center-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/center-user/center-user-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-216" />
+    <option name="y" value="72" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afiona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afiona" type="462c0819:PsiDirectoryNode" />
+              <item name="center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afiona" type="462c0819:PsiDirectoryNode" />
+              <item name="center" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user" type="462c0819:PsiDirectoryNode" />
+              <item name="center-user-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afiona" type="462c0819:PsiDirectoryNode" />
+              <item name="center" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587646029524" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-client\src\main\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\test\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\main\resources" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\center-user\center-user-web\src\main\java" />
+      <recent name="D:\usworkspace\yanli-workspace\x-workspace\common\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="center-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.afiona.center.user.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="998fcf69-a029-4034-9487-bee9ee92b810" name="Default Changelist" comment="" />
+      <created>1587644985157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587644985157</updated>
+      <workItem from="1587644989467" duration="1019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/afiona/common/pojo/PageQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/EmpApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/java/com/afiona/center/user/api/impl/WechatUserApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/main/resources/application-local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-web/src/test/java/com/afiona/center/user/domain/service/MemberServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/center-user/center-user-client/src/main/java/com/afiona/center/user/api/EmpApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

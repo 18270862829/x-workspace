@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/center-user/center-user.iml" filepath="$PROJECT_DIR$/center-user/center-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" filepath="$PROJECT_DIR$/center-user/center-user-client/center-user-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" filepath="$PROJECT_DIR$/center-user/center-user-web/center-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/x-workspace.iml" filepath="$PROJECT_DIR$/.idea/x-workspace.iml" />
+    </modules>
+  </component>
+</project>
