@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="998fcf69-a029-4034-9487-bee9ee92b810" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/center-member/center-member.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_afiona_center_member_client_0_0_1_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/center-member" beforeDir="false" afterPath="$PROJECT_DIR$/center-member" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/center-member/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/center-member/Dockerfile" beforeDir="false" />
@@ -57,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/center-member/center-member-client/src/main/java/com/afiona/center/member/api/MemberApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="66">
               <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
@@ -132,202 +129,6 @@
               <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x-workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x-workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member" type="462c0819:PsiDirectoryNode" />
-              <item name="center-member-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="afiona" type="462c0819:PsiDirectoryNode" />
-              <item name="center" type="462c0819:PsiDirectoryNode" />
-              <item name="member" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -339,7 +140,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587648488462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587692894920" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/center-member/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -411,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1587644985157</updated>
       <workItem from="1587644989467" duration="4014000" />
-      <workItem from="1587691902074" duration="238000" />
+      <workItem from="1587691902074" duration="906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4252000" />
+    <option name="totallyTimeSpent" value="4920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -437,12 +238,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.660746" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.7175844" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.64298403" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,6 +259,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_WIDTH">
+      <map>
+        <entry key="3" value="299" />
+      </map>
+    </option>
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/common/pom.xml">
@@ -682,7 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/center-member/center-member-client/src/main/java/com/afiona/center/member/api/MemberApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="66">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
